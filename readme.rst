@@ -13,3 +13,4 @@ To run this Streamlit app on your local machine:
 ====================================================================================================
 
 Alternatively, you can view it in your web browser by typing the following URL:
+https://cyberattacks-detection-ydh-zuyj20wpas02qvapu.streamlit.app/
